@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(56, 59, 224);
+    background: #020305;
+}
+body {
+    background: url(file:///C:/Users/Shama/Desktop/SCHOOL/website%20project/pictures/home2.png);
+}
+span {
+    background: #082c73;
+    width: 100%;
+    border: 2px solid blue;
+    padding: 1%;
+    margin: 0px 0px 500px 580px;
+}
+form{
+    width: 100%;
+    margin: 250px 500px 250px 0px;
+}
