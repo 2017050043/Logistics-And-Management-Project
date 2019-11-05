@@ -47,5 +47,5 @@ Home page-basically introduces you to the site and with a video showing the asse
 * Submitting when its done
 
 <p align="center">
-  >><a href="https://github.com/2017050043/Logistics-And-Management-Project/blob/master/Index.html">Home Page</a><<<br>
+  >><a href="file:///C:/Users/Shama/Desktop/SCHOOL/website%20project/Logistics%20And%20Management%20Project/Index.html">Home Page</a><<<br>
   <br>
