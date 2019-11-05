@@ -11,6 +11,7 @@ In brief this is a website for a logistics company i aim to own in the near futu
 3. BOOT STRAP
 4. JAVA SCRIPT
 5. NODEJS
+6. DataBase Management Systems
 
 ## Technologies features
 1. Front end
@@ -20,7 +21,7 @@ In brief this is a website for a logistics company i aim to own in the near futu
 5. Bootstrap
 6. Javascript
 7. Node.js
-
+8. DataBase Management Systems
 
 ## Website features  
 Home page-basically introduces you to the site and with a video showing the assets of the company.
@@ -43,6 +44,8 @@ Home page-basically introduces you to the site and with a video showing the asse
 * 2 weeks on back end 
 * 1 week for correcting errors
 * 1 week upgrading
-* Submitting when its done.
+* Submitting when its done
 
-<for more information click the link  https://github.com/2017050043/Logistics-And-Management-Project 
+<p align="center">
+  >><a href="https://github.com/2017050043/Logistics-And-Management-Project">Home Page</a><<<br>
+  <br>
