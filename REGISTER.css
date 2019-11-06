@@ -67,7 +67,7 @@ h1{
  margin: 0 auto; 
  }
 
-select {
+.content select{
 
     width: 170px;
 
