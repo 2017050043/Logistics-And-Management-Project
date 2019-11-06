@@ -56,3 +56,29 @@ h1{
                  0px 8px 13px rgba(0, 0, 0, 0.1)
                  0px 18px 23px white;
 }
+
+.content { 
+ position: fixed; 
+ bottom: 0; 
+ background: rgba(0, 0, 0, 0.5); 
+ color: #f1f1f1; 
+ width: 100%; 
+ padding: 20px; 
+ margin: 0 auto; 
+ }
+
+#myBtn { 
+ width: 200px; 
+ font-size: 18px; 
+ padding: 10px; 
+ border: none; 
+ background: #000; 
+ color: #fff; 
+ cursor: pointer; 
+ float: left; 
+ } 
+
+#myBtn:hover { 
+ background: #ddd; 
+ color: black; 
+ } 
