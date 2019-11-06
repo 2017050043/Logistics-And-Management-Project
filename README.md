@@ -1,6 +1,6 @@
 # Huzhou University International Students Web App
      
-![Raeli Logistics And Management](Homepage.png "Company Profile Page")     
+![Raeli Logistics And Management](Homepage.png)     
 
 # Introduction
 This is business website with the agenda to draw more people to the company at the same time attending the needs of the customers.The reason why i concluded on this website is because trade has been rapidly increasing for the past centuries and even more now so goods are being moved from one place to the other so to ensure safety and goods to reach their owners in time i decided to do and own a logistics company.They say for every great leader there is a greater logistician. 
@@ -23,10 +23,6 @@ This is business website with the agenda to draw more people to the company at t
 5. Node.js
 6. Database Management Systems
 
-
-## Website features  <p align="center">
->>< a href=" ">Home page</ a><<<br>
-<br>
 Home page-summary about RAELI LOGISTICS
 * -7 buttons linking to other pages of the website
 * -video showing our inventory
@@ -45,5 +41,5 @@ Home page-summary about RAELI LOGISTICS
 * Submitting when its done.
 
 <p align="center">
->>< a href="https://2017050043.github.io/Logistics-And-Management-Project/">Home page</ a><<<br>
+>><a href="https://2017050043.github.io/Logistics-And-Management-Project/">Home page</a><<<br>
 <br>
