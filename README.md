@@ -1,6 +1,4 @@
 # RAELI LOGISTICS AND MANAGEMENT
-     
-![My Homepage](home2.png?raw=true "My Homepage")     
 
 # Introduction
 This is business website with the agenda to draw more people to the company at the same time attending the needs of the customers.The reason why i concluded on this website is because trade has been rapidly increasing for the past centuries and even more now so goods are being moved from one place to the other so to ensure safety and goods to reach their owners in time i decided to do and own a logistics company.They say for every great leader there is a greater logistician. 
