@@ -1,0 +1,45 @@
+div:nth-of-type(1) {
+    border: 2px;
+    width: 720px;
+    height: 80px;
+    background: rgb(106, 140, 231);
+    margin: 0 auto;
+    padding-left: 5px;
+}
+button {
+    float: right;
+    color: black;
+    background-color: rgb(44, 86, 201);
+}
+body {
+    border: 2px;
+    width: 800px;
+    height: 1200px;
+    margin: 0 auto;
+}
+span {
+    border: 2px;
+    width: 40%;
+    height: 300px;
+    float: left;
+    margin: 35px;
+    padding: 5px;
+    background: rgb(106, 140, 231);
+}
+#wechat {
+    width: 25px;
+    height: 25px;
+}
+#whatsapp {
+    width: 25px;
+    height: 25px;
+}
+
+input {
+    height: 30px;
+    width: 200px;
+}
+
+#box {
+}
+    
